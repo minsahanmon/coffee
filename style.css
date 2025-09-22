@@ -81,7 +81,7 @@ header .navbar {
 }
 
 .hero-section .content button {
-  background: #fff;
+  background: #0e0c0c;
   padding: 12px 30px;
   border: none;
   font-size: 1rem;
@@ -94,7 +94,7 @@ header .navbar {
 
 .hero-section .content button:hover {
   color: #fff;
-  background: #C06B3E;
+  background: #fd4801;
 }
 
 #close-menu-btn {
